@@ -62,15 +62,15 @@
   
 <p> <strong>Проект 2</strong>: тестовое задание Skyeng</p>
 <p>Что нужно было сделать:<p>
-<ol>
+<p><ol>
   Задача №1. Ответить на вопросы <br>
   Задача №2. Составить smoke тест-кейсы <br>
   Задача №3. Провести тестирование API Яндекс.Погода <br>
   Задача №4. Паписать SQL-запросы
-</ol>
+</ol> <p>
 
-<p>Как решала:<p>
-  <p>Я разбила работу на 4 блока<p>
+  <a href="https://docs.google.com/document/d/1uKHRC2yNHkOHyuDS3NQ6rYLYNPZ0tEj0Z3gy1OIaCbo/edit?usp=drive_link">Ссылка на проект</a>
+ 
   
 
 <br> 
