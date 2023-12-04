@@ -69,7 +69,7 @@
   Задача №4. Паписать SQL-запросы
 </ol> <p>
 
-  <a href="https://docs.google.com/document/d/1uKHRC2yNHkOHyuDS3NQ6rYLYNPZ0tEj0Z3gy1OIaCbo/edit?usp=drive_link">Ссылка на проект</a>
+>  <a href="https://docs.google.com/document/d/1uKHRC2yNHkOHyuDS3NQ6rYLYNPZ0tEj0Z3gy1OIaCbo/edit?usp=drive_link">Ссылка на проект</a>
  
   
 
