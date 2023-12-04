@@ -50,8 +50,8 @@
 <ul><p>
 
 
->  <a href="https://fogen.notion.site/fogen/1-2-Web-REST-API-Postman-5f1700d11e1840b2a4e244b38cb0190f">Ссылка на проект</a>
-  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+>  <a href="https://docs.google.com/document/d/18WwUCvFImLULXNkLynHjOfp5INJJoq4JqQy_0B-K4dc/edit?usp=sharing">Ссылка на краткую выдержку проекта</a>
+ 
  
 <p>Выводы (итоги):<p>
 Итог №1
