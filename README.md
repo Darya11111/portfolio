@@ -8,7 +8,7 @@
 
 ## Навыки и технологии
 ``Jira``, ``Confluence``, ``qase.io``, ``SQL``,`` Postman``, ``Swagger``, ``Mockoon`` ``Trello``, <br>
-``SoapUI``,  ``Sitechko``, ``Checkvist, ``Miro``<br>
+``SoapUI``,  ``Sitechko``, ``Checkvist``, ``Miro``<br>
 
 
 
