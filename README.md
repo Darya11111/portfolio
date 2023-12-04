@@ -51,7 +51,7 @@
 
 
 >  <a href="https://docs.google.com/document/d/18WwUCvFImLULXNkLynHjOfp5INJJoq4JqQy_0B-K4dc/edit?usp=sharing">Ссылка на краткую выдержку проекта</a>
- 
+ <br>
  
 <p>Выводы (итоги):<p>
 Итог №1
