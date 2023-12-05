@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnptN3NjcHg1ZnJ3cXJ6cHpvdmo5MGs0dWwyaGx2dXR4dHdlYWRjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lGhBlBMIN2XsEteTN3/giphy.gif" width="200"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Darya11111&style=flat-square&color=blue" alt=""/>
 </div>
 
