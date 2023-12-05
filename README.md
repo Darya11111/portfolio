@@ -1,13 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnptN3NjcHg1ZnJ3cXJ6cHpvdmo5MGs0dWwyaGx2dXR4dHdlYWRjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lGhBlBMIN2XsEteTN3/giphy.gif" width="200"/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Darya11111&style=flat-square&color=blue" alt=""/>
 
 # Портфолио: инженер по тестированию
 
 
 ## Обо мне 
 
-Привет! Меня зовут Дарья, я начинающий тестировщик. <br>
+Привет! Меня зовут Дарья, я начинающий тестировщик из Екатеринбурга. <br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
 
