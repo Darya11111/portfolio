@@ -5,7 +5,7 @@
   <a href="https://t.me/Darya2605">
    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  
+  </div>
 
 # Портфолио: инженер по тестированию
 
