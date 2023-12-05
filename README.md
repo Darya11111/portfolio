@@ -6,9 +6,6 @@
    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=Darya11111&style=flat-square&color=blue" alt=""/>
-</div>
 
 # Портфолио: инженер по тестированию
 
@@ -102,3 +99,7 @@ Skyeng — это онлайн-школа английского языка, к�
 ## :writing_hand: Контактная информация
 - Email: azeeva.dasha@outlook.com
 - Telegram: @Darya2605
+  
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=Darya11111&style=flat-square&color=blue" alt=""/>
+</div>
