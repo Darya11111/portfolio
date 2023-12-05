@@ -47,7 +47,8 @@
   <li>Провела тест-раны по всем чек-листам и тест-кейсам</li>
   <li>Завела баг-репорты</li>
   <li>Оформила отчет по тестированию</li> 
-<ul><p>
+<ul>
+  <p>
 
 
 >  <a href="https://docs.google.com/document/d/18WwUCvFImLULXNkLynHjOfp5INJJoq4JqQy_0B-K4dc/edit?usp=sharing">Ссылка на краткую выдержку проекта</a>
